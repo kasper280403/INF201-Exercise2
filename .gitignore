@@ -1,0 +1,38 @@
+# General macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# macOS cache files
+*.swp
+*.lock
+*.tmp
+*.bak
+*.orig
+
+# IDE / Editor specific (optional, remove if you want to track)
+*.sublime-workspace
+*.sublime-project
+*.vscode
+.idea/
